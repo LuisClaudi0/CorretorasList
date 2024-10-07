@@ -1,15 +1,21 @@
 # Corretoras List
 
-This project wascreated using React
+This project was created using React
 
-## Available Scripts
+## Guide
+To run this project, you need to download the project .zip
 
-To run this project, you can run firstly:
+extract the zip file to a normal folder (right click > extract all files)
+
+Open your computer's terminal, and go to where the folder is downloaded.
+
+Then, run:
 
 ### `npm install`
-  To install all the project dependencies
-and then run:
+
+To install all the project dependencies and then run:
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+to run the app in the development mode.\
+
+Open [http://localhost:3000](http://localhost:3000) to view the project in your browser.
